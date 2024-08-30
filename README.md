@@ -18,3 +18,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<img src="https://raw.githubusercontent.com/AlvesLuis0/AlvesLuis0/master/img/mario.gif" alt="Mario Coding">
